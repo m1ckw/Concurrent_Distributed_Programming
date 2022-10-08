@@ -36,21 +36,26 @@ design.</td>
     <th>Concepts and Applications</th>
   </tr>
   <tr>
-    <td>M1</td>
+    <td>MOD1</td>
     <td>Real-time Systems.</td>
-    <td>1. Computer Architectures: Von Neumann V Harvard. 
-      <br>2. Operating Systems:    Hardware, Processes, Threads and CPU Scheduling. 
-      <br>3. Real-time Systems:    Memory Managment, Polling V Interrupts, Context Switching and Process Scheduling.
-      <br>4. Practical Tasks:
-      <ul>
-        <li>C++ Arduino Microcontoller - Sense, Think, Act Program.</li>  
-        <li>C++ Arduino Microcontoller - Interupt Driven Program.</li>  
-        <li>C++ Arduino Microcontoller - Multiple Inputs (Credit Task).</li>
-        <li>C++ Arduino Microcontoller - More Inputs & Multiple Interupts (Distinction Task).</li>  
-      </ul></td>
+    <td>
+      <ol>
+       <li>Computer Architectures: Von Neumann V Harvard. </li>
+        <li>Operating Systems:    Hardware, Processes, Threads and CPU Scheduling. </li>
+        <li>Real-time Systems:    Memory Managment, Polling V Interrupts, Context Switching and Process Scheduling.</li>
+        <li>Practical Tasks:
+          <ul>
+            <li>C++ Arduino Microcontoller - Sense, Think, Act Program.</li>  
+            <li>C++ Arduino Microcontoller - Interupt Driven Program.</li>  
+            <li>C++ Arduino Microcontoller - Multiple Inputs (Credit Task).</li>
+            <li>C++ Arduino Microcontoller - More Inputs & Multiple Interupts (Distinction Task).</li>  
+          </ul>
+         </li>
+      </ol>
+    </td>
   </tr>
   <tr>
-    <td>M2</td>
+    <td>MOD2</td>
     <td>Concurrent Programming</td>
     <td>
       <ol>
@@ -71,7 +76,7 @@ design.</td>
     </td>
   </tr>
   <tr>
-    <td>M3</td>
+    <td>MOD3</td>
     <td>Distributed Programming.</td>
     <td>GLO5: Problem solving.</td>
   </tr>
