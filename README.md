@@ -67,8 +67,8 @@ design.</td>
         <li>Practical Tasks:
           <ul>
             <li>C++ pthreads & C++ w/OpenMP - Parallel Vector Addition.</li>  
-            <li>C++ pthreads & C++ w/OpenMP - Matrix Multiplication.</li>
-            <li>C++ pthreads & C++ w/OpenMP - Quicksort Algorithm (Credit Task).</li>
+            <li>C++ pthreads & C++ w/OpenMP - Parallel Matrix Multiplication.</li>
+            <li>C++ pthreads & C++ w/OpenMP - Parallel Quicksort Algorithm (Credit Task).</li>
             <li>C++ pthreads - Multithreaded Bounded-Buffer Producer-Consumer Pattern to Simulate Traffic Control (Distinction Task).</li>  
           </ul>
         </li> 
@@ -78,6 +78,19 @@ design.</td>
   <tr>
     <td>MOD3</td>
     <td>Distributed Programming.</td>
-    <td>GLO5: Problem solving.</td>
+    <td>
+      <ol>
+        <li>Distributed Systems: Distributed Computing Architectures, Storage/Databases and Applications.</li> 
+        <li>Message Passing Interface (MPI): MPI Implementation with C++.</li> 
+        <li>Heterogeneous Computing:   Open Computing Language (OpenCL), Computation with CPUs and GPUs.</li>
+        <li>Practical Tasks:
+          <ul>
+            <li>C++ pthreads & C++ w/OpenMP & C++ w/MPI & C++ w/OpenCL  - Distributed Parallel Vector Addition.</li>  
+            <li>C++ pthreads & C++ w/OpenMP & C++ w/MPI & C++ w/OpenCL  - Distributed Parallel Matrix Multiplication.</li>
+            <li>C++ pthreads & C++ w/OpenMP & C++ w/MPI & C++ w/OpenCL  - Distributed Parallel Quicksort Algorithm (Credit Task).</li> 
+          </ul>
+        </li> 
+      </ol>
+    </td>
   </tr>
 </table> 
