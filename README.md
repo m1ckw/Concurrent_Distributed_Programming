@@ -27,6 +27,7 @@ design.</td>
     <td>GLO1: Discipline-specific knowledge and capabilities. <br>GLO2: Communication. <br>GLO4: Critical thinking. <br>GLO5: Problem solving.</td>
   </tr>
 </table> 
+<br>
 
 ### Modules Covered/Completed within the Unit
  <table>
