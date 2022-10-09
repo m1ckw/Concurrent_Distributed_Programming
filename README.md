@@ -1,6 +1,6 @@
 # SIT315 Concurrent Programming
 
-### Deakin University Computer Science Unit - Completed with Distinction
+### Deakin University Computer Science Unit
 
 In this unit we expanded our programming skills beyond procedural and object-oriented methods covered in earlier units, investigating parallel, distributed, and real-time systems programming. Through both study of theoretical aspects of programming languages and hands-on practical application of these programming paradigms, we developed an understanding, the skills and expertise in how to choose and implement the right programming paradigm to tackle the computational problems at hand.
 
