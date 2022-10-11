@@ -1,4 +1,4 @@
-# SIT315 Concurrent Programming
+# SIT315 Concurrent & Distributed Programming
 
 ### Deakin University Computer Science Unit
 
